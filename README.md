@@ -8,7 +8,7 @@ A real-time face recognition-based attendance system using FaceNet, OpenCV, and 
 
 📁 Logs In/Out time in Excel
 
-📧 Sends:
+📧 Sends :
 
 Late arrival emails (after 15 mins)
 
@@ -76,11 +76,7 @@ Email Alerts to latecomers and absentees
 Python 3.x
 
 OpenCV
-
 Keras-FaceNet
-
 Scikit-learn
-
 Pandas
-
 smtplib (for sending emails)
